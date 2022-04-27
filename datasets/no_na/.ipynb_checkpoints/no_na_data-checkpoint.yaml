@@ -1,0 +1,7 @@
+path: '../datasets/no_na' # dataset root dir
+train: 'images/train' # train images (relative to path)
+val: 'images/val'  # val images (relative to path)
+test:  # test images (optional)
+nc: 1
+names:
+- fin
